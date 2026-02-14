@@ -13,7 +13,11 @@ Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum 
 
 <!-- ![Alt text](assets/images/01-Book1Chapter1.png) -->
 
-![Alt text]({{ '/assets/images/01-Book1Chapter1.png' | relative_url }})
+<!-- ![Alt text]({{ '/assets/images/01-Book1Chapter1.png' | relative_url }}) -->
+<figure>
+  <img src="{{ '/assets/images/01-Book1Chapter1.png' | relative_url }}" alt="Alt text">
+  <figcaption>Book 1, Chapter 1</figcaption>
+</figure>
 
 ### A subheading
 
