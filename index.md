@@ -9,7 +9,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
 Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue.
 
-![Placeholder image](https://picsum.photos/1200/700)
+<!-- ![Placeholder image](https://picsum.photos/1200/700) -->
+
+<!-- ![Alt text](assets/images/01-Book1Chapter1.png) -->
+
+![Alt text]({{ '/assets/images/story/01-girl.jpg' | relative_url }})
 
 ### A subheading
 
