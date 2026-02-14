@@ -13,7 +13,7 @@ Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum 
 
 <!-- ![Alt text](assets/images/01-Book1Chapter1.png) -->
 
-![Alt text]({{ '/assets/images/story/01-girl.jpg' | relative_url }})
+![Alt text]({{ '/assets/images/01-Book1Chapter1.png' | relative_url }})
 
 ### A subheading
 
