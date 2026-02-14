@@ -15,6 +15,6 @@ Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum 
 
 Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
 
-### A second subheading
+## <span class="h2n">1. The heading title </span>
 
 Twice the other thing. Plus now the token stuff. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
