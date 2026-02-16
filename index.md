@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.html
 title: Home
 ---
 
@@ -9,13 +9,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
 Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue.
 
-<!-- ![Placeholder image](https://picsum.photos/1200/700) -->
+{% comment %}
 
 <!-- ![Alt text](assets/images/01-Book1Chapter1.png) -->
+<!-- ![Placeholder image](https://picsum.photos/1200/700) -->
 
-<!-- ![Alt text]({{ '/assets/images/01-Book1Chapter1.png' | relative_url }}) -->
+{% endcomment %}
+
 <figure>
-  <img src="{{ '/assets/images/01-Book1Chapter1.png' | relative_url }}" alt="Alt text">
+  <img src="/assets/images/01-Book1Chapter1.png" alt="Book 1, Chapter 1">
   <figcaption>Book 1, Chapter 1</figcaption>
 </figure>
 
@@ -23,6 +25,6 @@ Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum 
 
 Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
 
-## <span class="h2n">1. The heading title </span>
+## <span class="h2n">1. The heading title</span>
 
 Twice the other thing. Plus now the token stuff. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.

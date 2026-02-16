@@ -1,0 +1,11 @@
+# Node
+node_modules/
+
+# Eleventy cache
+.eleventy-cache/
+.cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
