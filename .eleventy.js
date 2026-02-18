@@ -1,6 +1,7 @@
 module.exports = function (eleventyConfig) {
   // Copy assets through unchanged
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy(".nojekyll");
 
   return {
     dir: {

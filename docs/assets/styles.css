@@ -7,7 +7,7 @@
 
 @font-face{
   font-family: "Special Elite";
-  src: url("/assets/fonts/SpecialElite-Regular.woff") format("woff");
+  src: url("/assets/fonts/special-elite-regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -23,7 +23,7 @@ body{
 }
 
 main{
-  max-width:46rem;
+  max-width:47rem;
   margin:3rem auto;
   padding:0 1.25rem;
 }
@@ -51,6 +51,10 @@ img{
   /* border-radius:10px; */
 }
 
+.title {
+  /* font-size: 36px; */
+  font-size: clamp(28px, 4vw, 48px);
+}
 .h2n{
   font-family: "Special Elite", "Courier New", ui-monospace, monospace;
 }
