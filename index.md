@@ -23,13 +23,13 @@ title: Home
 
 ## <span class="h2n">1.</span>
 
-The Russians put Sputnik in orbit on October 4, 1957, making sure <i>everyone</i> could hear it. The rocket sending it up there had the range to reach America, but this was almost an aside. What mattered was the Soviets had made space theirs, and the Americans did not. Invisible in the night’s sky, the United States could nonetheless feel it, looking down, mocking.
+The Russians placed Sputnik 1 in orbit on October 4, 1957, making sure <i>everyone</i> could hear it. The rocket sending it up there had the range to reach America, but this was almost an aside. What mattered more was that the Soviets had made space theirs, and the Americans did not. Invisible in the night’s sky, the United States could nonetheless feel it, looking down, mocking.
 
 ## <span class="h2n">2.</span>
 
 I used to go back and stop time, right before math class on the first week of middle school. In the hall, young children are frozen in motion, scrambling to get into rooms. I would lean against a wall and gaze at twelve-year-old me. To her, this new school seems huge. Some of the older kids look like adults, how is that even possible. She wonders if she counts as chubby.
 
-Knowing what’s about to happen, I used to look at her and think about choices and luck. Other times, I would try to glimpse nature from nurture. Until, one day, she slowly turns her head and looks back at me, worried. “Leave me alone,” she says, “it’s class now.” So that day I walked away from her for the last time.
+Knowing what’s about to happen, I used to look at her and think about choices and luck. Other times, I would try to glimpse nature from nurture. Until, one day, she slowly turns her head and looks back at me, worried. “Leave me alone,” she says, “it’s class now.” So on that day I walked away from her for the last time.
 
 ## <span class="h2n">3.</span>
 
@@ -39,14 +39,14 @@ The trouble was, math had progressed as rapidly as any of the other sciences, bu
 
 ## <span class="h2n">4.</span>
 
-The five-year period that ushered in the US New Math era reads very much like an Agatha Christie mystery. Among the characters are:
+The five-year period that ushered in the American New Math era reads very much like an Agatha Christie mystery. Among the characters are:
 
 <ul>
 <li>	The savvy academic, Ed Begle. He’s the director of the School Mathematics Study Group (SMSG). It was launched in 1958 by the American Mathematical Society and funded by the NSF,  to spur new textbooks and curricula for K-12 math education. </li>
-<li>	The diplomat, Howard Fehr. A prolific scholar in the field of math education and the head of the mathematics department at Teachers College, New York.</li>
+<li>	The diplomat, Howard Franklin Fehr. A prolific scholar in the field of math education and the head of the mathematics department at Teachers College, New York.</li>
 <li> The eccentric Frenchman, Jean Dieudonné.</li>
 </ul>
-It’s 1959, and the Americans are all staring down fabulous wealth, so to speak. The NSF annual budget has just been tripled, to $134 million, with an urgent mission to do something about scientific education. Within a decade, it’ll grow to $500 million/yr.
+It’s 1959, and the Americans are all staring down fabulous wealth, so to speak. The NSF annual budget has just been tripled, to $134 million, with an urgent mission to do something about science education. Within a decade, it’ll grow to $500 million/yr.
 
 They and others gather in a countryside abbey at Royaumont, France, and a murder is announced. The Frenchman, Dieudonné, rises to give his speech and calls out: “Down with Euclid! Death to Triangles!”
 
@@ -69,7 +69,7 @@ For reading material, candy-coloured book covers pitched math as hot <i>and</i> 
   <figcaption>Math books</figcaption>
 </figure>
 
-At the movies, Disney got an Oscar nod for "Mathmagicland", where a spirit guides Donald Duck through “the wonderland of mathematics.” Four years later, "The Dot and the Line: A Romance in Lower Mathematics" won the award in the short film category.
+At the movies, Disney got an Oscar nod for "Mathmagicland", where a spirit guides Donald Duck through a technicolour "wonderland of mathematics.” Four years later, "The Dot and the Line: A Romance in Lower Mathematics" won the award in the short film category.
 
 Or you could just watch TV. For adults, NBC produced “The Bedrock of Logical Thought”, a ten-part math talk show (!) For teens, Westinghouse made the nine-part “Adventures in Numbers and Space” (advised by Howard Fehr). The TV guide printed listings like “Bil Baird and his puppets discuss topology and Euler's theorem”, and everyone thought this was normal.
 
@@ -137,7 +137,7 @@ Also, notice ‘Geometry’ hovering around the middle at the very top, entirely
 
 Three, a patient observer will notice ‘Groups’ appearing thrice in this chart. Imagine turning the chart on its side, either to the left or to the right, so other parts now become the foundation. You’d still run into groups in no time.
 
-But if groups matter so much, why has no one ever taught them at school? In the sixties, education reformers were asking much the same. Of course, no topic is taught to full accuracy early on. But they worried math had changed so much that standard curricula may actually hinder scientific progress.
+But if groups matter so much, why has no one ever taught them at school? In the sixties, education reformers were asking much the same. Of course, no topic is taught to full accuracy early on. But they worried math had changed to the point where standard curricula may actually hinder scientific progress.
 
 Take a final look at this chart. It’s how undergrad math degrees are universally taught today. Of all French exports, it can be argued the most successful was neither the croissant nor champagne, but how to think about math.
 
@@ -154,19 +154,19 @@ Columbia Teachers College. Did I mention Teachers College has been affiliated wi
 
 Evidently, Fehr was a gifted project manager. Books and TV shows; papers and conferences; speeches and admin; these were all mere side hustles compared to the “Secondary School Mathematics Curriculum Improvement Study” (SSMCIS). It was the pinnacle of his career, stretching from ‘65 to ‘76, when the money ran out.
 
-Imagine an ant walking the spiralling wire of a slinky. It’s moving forward, but also keeps returning to the same place, only now a rung up. It looks the same as it did last time, but the ant is now a bit wiser, having completed the slinky circumference.
+Imagine an ant walking the spiralling wire of a slinky. It’s moving forward, but also keeps returning to the same place, only now a rung up. Its local position looks the same as it did last time, but the ant is now a bit wiser, having completed the slinky circumference.
 
 The textbook series was called “Unified Modern Mathematics” and did what it says on the tin. The foundations were wholly Bourbaki: sets, relations, structure, and structure-preserving mappings. Like the ant walking the slinky, the plan spiralled. Year to year, it would cover the same concepts, at growing depth.
 
-Fehr had observed how New Math rollouts had faltered and wasn’t about to repeat mistakes. The stakeholder-group list alone is enough to get Wes Anderson excited:
+Fehr had observed how New Math rollouts had faltered and wasn’t about to repeat mistakes. The stakeholder-group list alone reads like a planned caper:
 
-The first was mathematicians, who advised on topics; <br>
-The second was more mathematicians, plus educators, who developed the syllabus; <br>
-A third was the writers;<br>
-A fourth was research assistants and typists. <br>
-The fifth was classroom teachers;<br>
-The sixth was classroom students;<br>
-And the seventh was observers, to observe the teachers and the students.
+<span class = "h2n"> \* </span>The first group is mathematicians and educators, who advise on topics; <br>
+<span class = "h2n"> \* </span>The second is more mathematicians and educators, who develop the syllabus; <br>
+<span class = "h2n"> \* </span>A third, the writers;<br>
+<span class = "h2n"> \* </span>A fourth, research assistants and typists; <br>
+<span class = "h2n"> \* </span>The fifth, classroom teachers;<br>
+<span class = "h2n"> \* </span>The sixth, classroom students;<br>
+<span class = "h2n"> \* </span>And the seventh, observers, to observe the teachers and the students.
 
 ## <span class="h2n">11.</span>
 
@@ -218,7 +218,7 @@ Math wasn’t always written so rigidly, and critics like Kline believed teachin
 
 People take different routes to solving a problem: one might draw a picture; another tries out examples in search of a pattern; a third might try tweaking a previous logical chain. Whichever, it helps when everyone writes out their proofs in the same, crystal-clear way.
 
-You could hear when you were doing it wrong. Until, with practice, you begin to experience the pleasure of getting it right. The final result sits on the page like a tiny origami swan, all clean lines and economy of construction. A universal truth that, somehow, belongs only to you.
+You could hear when you were doing it wrong. Until, with practice, you begin to experience the pleasure of getting it right. The final result sits on the page like a tiny origami swan, all clean lines and economy of construction. A universal truth which, somehow, belongs only to you.
 
 ## <span class="h2n">14.</span>
 
@@ -232,9 +232,9 @@ No one could tell.
 
 ## <span class="h2n">15.</span>
 
-Hunter College, New York is an elite school with a building shaped like an armoury and an admissions record to match. It boasts that its twelve hundred students – thirty percent fewer than it was educating in 1878 - "represent the top one-quarter of one percent of students in New York City”.
+Hunter College, New York, is an elite school with a building shaped like an armoury and an admissions record to match. It boasts that its twelve hundred students – thirty percent fewer than it was educating in 1878 - "represent the top one-quarter of one percent of students in New York City”.
 
-Once you start playing the elite game, why stop? To that end, math remains an effective cudgel. Beginning in the eighth grade, Hunter College offers two Honors programs: Honors and Extended Honors. That last one comes with menacing overtones:
+Once you start playing the elite game, why stop? To this end, math remains an effective cudgel. Beginning in the eighth grade, Hunter College offers two Honors programs: Honors and Extended Honors. That last one comes with menacing overtones:
 
 <i>“The Extended Honors Program was originally based on the Secondary School Mathematics Curriculum Improvement Study (SSMCIS) Program. It includes many advanced topics and requires extensive preparation and a considerable commitment of time to the study of mathematics.”</i>
 
@@ -254,7 +254,7 @@ While Fehr’s program was only ever meant for the top twenty percent, Marcus in
 
 Marcus was a very close friend of Akiva Skidell, a math educator who was born in Poland, raised in Canada (where he studied math), and served in the US military (where he was among the troops first arriving at Buchenwald concentration camp). Skidell had already co-authored a New Math textbook himself.
 
-Together with Fehr, it was agreed early on that Skidell would translate the books. The final version of the first SSMCIS book was published in 1968; a year later, its Hebrew version followed.
+Together with Fehr, early on they agreed Skidell would translate the books. The final version of the first SSMCIS book was published in 1968; a year later, its Hebrew version followed.
 
 ## <span class="h2n">17.</span>
 
@@ -278,11 +278,11 @@ We were about to start high school and suddenly there was a choice. After three 
 
 Columbia offered no extra credit. The final marks would be the scores on internal finals instead of the national exams. (As was the case with the original SSMCIS.) Why take the extra hardship for mostly downside risk? Half the class quit in a heartbeat.
 
-For the other half, by that point we kind of got the hang of Columbia. Leaving would mean getting used to a new system, and who wants that. Also, quitting was unfathomable.
+For the other half, by then we kind of got the hang of Columbia. Leaving would mean getting used to a new system, and who wants that. Also, quitting was unfathomable.
 
 ## <span class="h2n">19.</span>
 
-Looking back, you didn’t need Columbia to do well at university, but it sure didn’t hurt. The payoff was in how old things pulled together, and new things weren’t all that hard.
+Looking back, you didn’t need Columbia to do well at university, but it sure didn’t hurt. The payoff was in how old things connected, and new things weren’t too hard.
 
 For example, it covered much of first-year undergrad calculus at a comfortable pace. All of science lives atop this stuff, but at undergrad pace the material can come as a shock: notions of infinity coexisting with proximity; Greek letters playing very specific roles; tricky proofs. Columbia stretched it out.
 
@@ -296,9 +296,9 @@ I wanted to take academic math courses at the Technion (the Israeli Institute of
 
 I was high on success. No more having any old homework; I was good enough to have <i>grownup</i> homework. The cost for the whole term, and the academic credits, came to about thirty hours of teenage minimum wage. (My parents paid.)
 
-There were twenty-one students taking the class that term, four of whom were kids; I wasn’t even the youngest. There was an older girl from my school, and two boys from elsewhere. In the tiniest of classrooms, we earnestly packed the front row. Into the room came a chuckling math professor, visibly amused with his crowd. Throughout the term, he graciously treated us no different to any other student.
+There were twenty-one students taking the class that term, four of whom were kids; I wasn’t even the youngest. There was an older girl from my school (also in Columbia), and two boys from elsewhere. In the tiniest of classrooms, we earnestly packed the front row. Into the room came a chuckling math professor, visibly amused with his crowd. Throughout the term, he graciously treated us no different to any other student.
 
-The material laid out had the elegance of spring dew. We saw how infinity was not one thing, and how to show one infinity is bigger than another. This time easily ranks among my top five life experiences. It was also good funnelling: at least three of those kids later chose a math degree.
+The material laid out had the elegance of spring dew. We saw how infinity was not one thing, and how to show one infinity is bigger than another. This time easily ranks among my top five life experiences. It was good funnelling: at least three of those kids later chose a math degree.
 
 ## <span class="h2n">21.</span>
 
@@ -308,7 +308,7 @@ Times have changed. The Technion now offers several structured programs to bring
 
 There is also the ‘Bar Ilan plan’ (read: Bar-eelan, so named after a different Israeli university). This one pushes kids to complete their math finals by tenth grade. It frees two years of math time, which can be used for undergrad studies. These setups are all selective.
 
-For Columbia, which had quietly survived for decades, this meant stiff competition. Once given a choice, kids who would otherwise stay now opt out and partake in a benefit-carrying program. Left are only a handful of pupils, too few to warrant the investment. For the past two years, the school let the program lapse.
+For Columbia, which had quietly survived for decades, it meant stiff competition. Once given a choice, kids who would otherwise stay now opt out and partake in a benefit-carrying program. Left are only a handful of pupils, too few to warrant the investment. For the past two years, the school let the program lapse.
 
 ## <span class="h2n">22.</span>
 
@@ -320,10 +320,13 @@ School math is taught so it can be used to calculate, test, compare, affirm, gai
 
 You know, it was the smallest thing. Two years into my math undergrad, in a spring term final. A question was asking to prove a statement, specifically testing our use of a certain mathematical hammer. The standard proof would involve a splitting into a number of cases, and ruling each out as impossible, until the only one left was the desired result.
 
-It was a topic I liked, and had independently read a little further along, enough to be aware of an object that must always exist. All I did was ask, “Well, how big is this thing here?” In a flash, right there and then, the whole problem collapsed.
+It was a topic I liked, and had independently read a little further along, enough to be aware of an object that must always exist. All I did was ask, “Well, how big is this thing here anyways?” <br>
+In a flash, right there and then, the whole problem collapsed.
 
 Instead of a series of niggly cases, this little tug instantly showed there could never be anything but the desired result. What’s more, the question had specific numbers in it, whereas this showed a more sweeping, generalised truth.
 
 The sheer surprise of it hit me in the gut with force. Before I knew it my eyes swelled with tears. I felt an urgent need to walk and breathe. I took a bathroom break to step outside. Circling the hall, I turned the argument in my mind, this way and that, looking for flaws. Then I went back in and wrote it down, all five lines of it.
 
-In my years in math, this was not my cleverest, nor loveliest, nor most complex or sophisticated proof. It was a wispy little thing. Except that I felt what it’s like, you know? How it feels to be punched by beauty.
+In my years in math, this was not my cleverest, nor loveliest, nor most complex or sophisticated proof. It was a wispy little thing. But on this one time I got to feel what it's like, to be punched by beauty.
+
+<a href="/">Back to Top</a>
