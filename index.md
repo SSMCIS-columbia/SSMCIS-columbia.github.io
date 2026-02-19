@@ -3,23 +3,21 @@ layout: default.html
 title: Home
 ---
 
-{% comment %}
-
-# <span class="h2n ">Once Upon A Time In Math </span>
-
-{% endcomment %}
-
-# <span class="h2n title" >ONCE UPON A TIME IN MATH </span>
+<h1 class="title" >ONCE UPON A TIME IN MATH </h1>
 
 {% comment %}
 
-<!-- ![Alt text](assets/images/01-Book1Chapter1.png) -->
-<!-- ![Placeholder image](https://picsum.photos/1200/700) -->
-
+<h2 class="deck">A Sputnik-era plan to teach kids math has quietly lived on</h2>
 {% endcomment %}
 
-<i> Vered Zimmerman</i><br>
-<i> February 2026</i>
+<p class = "h2n">Vered Zimmerman<br>
+February 2026
+</p>
+
+<figure>
+  <img src="/assets/images/sputnik-1.jpg" alt="Sputnik 1">
+  
+</figure>
 
 ## <span class="h2n">1.</span>
 
@@ -35,7 +33,7 @@ Knowing what’s about to happen, I used to look at her and think about choices 
 
 Even before Sputnik, the US was concerned its math education was too uneven, too aimless. In 1950 the Americans set up the National Science Foundation (NSF), to invest in science research and education. In 1955, the College Entrance Examination Board appointed a special commission to suggest changes to how math is taught in high school, so students arrive at university better prepared.
 
-The trouble was, math had progressed as rapidly as any of the other sciences, but school kids were still being taught the best and the finest of seventeenth-century wisdom. Math education is rarely a headline grabber, but suddenly it was the space age. In the light the moon, their work was thrust into full view.
+The trouble was, math had progressed as rapidly as any of the other sciences, but school kids were still being taught the best and the finest of seventeenth-century wisdom. Math education is rarely a headline grabber, but suddenly it was the space age.
 
 ## <span class="h2n">4.</span>
 
@@ -66,7 +64,7 @@ For reading material, candy-coloured book covers pitched math as hot <i>and</i> 
 
 <figure>
   <img src="/assets/images/math-books.png" alt="Math books">
-  <figcaption>Math books</figcaption>
+  <figcaption class = "caption">Covers of popular-math books, 1957-1965. Source: ebay</figcaption>
 </figure>
 
 At the movies, Disney got an Oscar nod for "Mathmagicland", where a spirit guides Donald Duck through a technicolour "wonderland of mathematics.” Four years later, "The Dot and the Line: A Romance in Lower Mathematics" won the award in the short film category.
@@ -85,21 +83,21 @@ This wonderful Cinderella story is dented only by the fact it’s untrue. In the
 
 <figure>
   <img src="/assets/images/carle-physics.png" alt="Eric Carle Physics">
-  <figcaption>Eric Carle Physics</figcaption>
+  <figcaption class = "caption">“Gravity at Work and Play”, 1963 ; "The Sun is a Star", 1963. </figcaption>
 </figure>
 
 He then found greener pastures in counting, illustrating for none other than Howard Fehr. It’s not hard to see in these books early version of the items the caterpillar eats his way through.
 
 <figure>
   <img src="/assets/images/fehr-carle.png" alt="If You Can Count To 10">
-  <figcaption>If You Can Count To 10</figcaption>
+  <figcaption class = "caption">"If You Can Count to 10", 1964</figcaption>
 </figure>
 
 ## <span class="h2n">7.</span>
 
-Our fingers are good for many things, including telling us that 5 plus 5 are 10. But equally, if today is a Thursday, and someone asks us what day it will be in five days’ time, we will tell them it’s a Tuesday. In week-counting, 5 plus 5 comes out as 3.
+Our fingers are good for many things, including telling us that 5 plus 5 are 10. But equally, if today is a Thursday, and someone asks us what day it will be in five days’ time, we will tell them it’s a Tuesday. In day-counting, 5 plus 5 comes out as 3.
 
-Say someone wakes you up at 3am, and asks you what time it will be today in 22 hours. Rubbing your eyes, you say it will be 1am tomorrow morning. This enrages your visitor: who asked about tomorrow?! They want to know what time will it be today.
+Say someone wakes you up at 3am, and asks you what time it will be today in 22 hours. Rubbing your eyes, you say it will be 1am tomorrow morning. This enrages your visitor: who asked about tomorrow?! They want to know what time will it be <i>to-day</i>.
 
 It’s not going to be today, you explain, because a day moves in circles of 24 hours, just like the week moves in circles of 7 days, and our years move in 52 weeks, which are 12 months. We add numbers round and round and think nothing of it.
 
@@ -112,8 +110,8 @@ But clock arithmetic was harmless. Soon enough, 2 plus 2 is no longer so obvious
 And subtly, imperceptibly, we learn our first lesson: numbers are not absolute. Adding ‘5’ works differently not just depending on whether it’s a finger or a day; before you can say how much adding ‘5’ is, you have to understand where ‘5’ lives.
 
 <figure>
-  <img src="/assets/images/clock-arithmetic.png" alt="Book 1, Chapter 1">
-  <figcaption>Book 1, Chapter 1</figcaption>
+  <img src="/assets/images/clock-arithmetic.png" alt="Year 1, Chapter 1">
+  <figcaption class = "caption">Year 1, Chapter 1</figcaption>
 </figure>
 
 ## <span class="h2n">8.</span>
@@ -130,7 +128,7 @@ The chart shows how Bourbaki organised the unity of modern math, and certain fea
 
 <figure>
   <img src="/assets/images/bourbaki.png" alt="Bourbaki structure of contemporary mathematics">
-   <figcaption>Bourbaki structure of contemporary mathematics, from the SSMCIS final report, p.39</figcaption>
+   <figcaption class = "caption">Bourbaki structure of contemporary mathematics. Source: SSMCIS final report, p.39</figcaption>
 </figure>
 
 Also, notice ‘Geometry’ hovering around the middle at the very top, entirely disconnected from anything below. This view enraged a sizable cohort of mathematicians. Historically, math mostly starts with the ancient Greek, who liked to measure. To the extent we’ve learned anything since, the critics said, much of it must surely flow from geometry.
@@ -158,7 +156,7 @@ Imagine an ant walking the spiralling wire of a slinky. It’s moving forward, b
 
 The textbook series was called “Unified Modern Mathematics” and did what it says on the tin. The foundations were wholly Bourbaki: sets, relations, structure, and structure-preserving mappings. Like the ant walking the slinky, the plan spiralled. Year to year, it would cover the same concepts, at growing depth.
 
-Fehr had observed how New Math rollouts had faltered and wasn’t about to repeat mistakes. The stakeholder-group list alone reads like a planned caper:
+Fehr had observed how New Math rollouts had faltered and wasn’t about to repeat mistakes. The list of stakeholder-groups alone reads like the planning of a high-stakes caper:
 
 <span class = "h2n"> \* </span>The first group is mathematicians and educators, who advise on topics; <br>
 <span class = "h2n"> \* </span>The second is more mathematicians and educators, who develop the syllabus; <br>
@@ -218,7 +216,7 @@ Math wasn’t always written so rigidly, and critics like Kline believed teachin
 
 People take different routes to solving a problem: one might draw a picture; another tries out examples in search of a pattern; a third might try tweaking a previous logical chain. Whichever, it helps when everyone writes out their proofs in the same, crystal-clear way.
 
-You could hear when you were doing it wrong. Until, with practice, you begin to experience the pleasure of getting it right. The final result sits on the page like a tiny origami swan, all clean lines and economy of construction. A universal truth which, somehow, belongs only to you.
+You could hear when you were doing it wrong. Until, with practice, you begin to experience the pleasure of getting it right. The final result sits on the page like a tiny origami swan, all clean lines and economy of construction. A universal truth that, somehow, belongs only to you.
 
 ## <span class="h2n">14.</span>
 
@@ -248,11 +246,11 @@ From the SSSMICS final report submitted to the National Science Foundation:
 
 Here’s how this came about.
 
-In the in the late sixties Moshe Marcus was the national superintendent of mathematics at the Israeli Ministry of Education. He was well aware of the change spreading across the US and Europe. From 1959, US initiatives had access to incredible funding, so their progress was closely followed. And Fehr was ever-present at international conferences and in journals.
+In the late sixties Moshe Marcus was the national superintendent of mathematics at the Israeli Ministry of Education. He was well aware of the change spreading across the US and Europe. From 1959, US initiatives had access to incredible funding, so their progress was closely followed. And Fehr was ever-present at international conferences and in journals.
 
-While Fehr’s program was only ever meant for the top twenty percent, Marcus intended to roll it out nationwide, so all children in Israel would be educated this way. After all, this was clearly the future. But young Israeli kids couldn’t read English.
+While Fehr’s program was only ever meant for the top twenty percent, Marcus intended to roll it out nationwide, so all children in Israel would be educated this way. After all, this was clearly the future.
 
-Marcus was a very close friend of Akiva Skidell, a math educator who was born in Poland, raised in Canada (where he studied math), and served in the US military (where he was among the troops first arriving at Buchenwald concentration camp). Skidell had already co-authored a New Math textbook himself.
+But young Israeli kids couldn’t read English. Marcus was a very close friend of Akiva Skidell, a math educator who was born in Poland, raised in Canada (where he studied math), and served in the US military (where he was among the troops first arriving at Buchenwald concentration camp). Skidell had already co-authored a New Math textbook himself.
 
 Together with Fehr, early on they agreed Skidell would translate the books. The final version of the first SSMCIS book was published in 1968; a year later, its Hebrew version followed.
 
@@ -274,7 +272,7 @@ By the mid-70s, Columbia had been moved to a different school, and was being tau
 
 ## <span class="h2n">18.</span>
 
-We were about to start high school and suddenly there was a choice. After three years of compulsory study, pupils could opt out of Columbia, and do whatever everyone else did.
+It was the mid '90s, and we were about to start high school. Suddenly there was a choice: after three years of compulsory study, pupils could opt out of Columbia, and do whatever everyone else did.
 
 Columbia offered no extra credit. The final marks would be the scores on internal finals instead of the national exams. (As was the case with the original SSMCIS.) Why take the extra hardship for mostly downside risk? Half the class quit in a heartbeat.
 
@@ -292,9 +290,9 @@ Also, and this I only understood later in life, the means are the end. For three
 
 When Marcus chose Haifa as his New Math epicentre, he likely didn’t care that the city happens to be a university town. After all, his was the business of teaching math to kids; what they do once they get to university was somebody else’s problem. One afternoon, I became somebody else’s problem.
 
-I wanted to take academic math courses at the Technion (the Israeli Institute of Technology), and now had to face the single qualifying hurdle: meeting an actual mathematician. I was wary of what he might ask – math riddles? difficult computations? – but was assured it would just be a friendly chat. Mostly, he wanted to know I was choosing this out of my own volition. With this cleared, he said they recommend starting with “Set Theory”.
+In my junior year of high school I wanted to start taking academic math courses at the Technion (the Israeli Institute of Technology), and now had to face the single qualifying hurdle: meeting an actual mathematician. I was wary of what he might ask – math riddles? difficult computations? – but was assured it would just be a friendly chat. Mostly, he wanted to know I was choosing this out of my own volition. With this cleared, he said they recommend starting with “Set Theory”.
 
-I was high on success. No more having any old homework; I was good enough to have <i>grownup</i> homework. The cost for the whole term, and the academic credits, came to about thirty hours of teenage minimum wage. (My parents paid.)
+I was high on success. No more having any old homework; I was good enough to have <i>grownup</i> homework. The cost for the whole term, with academic credits, came to about thirty hours of teenage minimum wage. (My parents paid.)
 
 There were twenty-one students taking the class that term, four of whom were kids; I wasn’t even the youngest. There was an older girl from my school (also in Columbia), and two boys from elsewhere. In the tiniest of classrooms, we earnestly packed the front row. Into the room came a chuckling math professor, visibly amused with his crowd. Throughout the term, he graciously treated us no different to any other student.
 
@@ -308,7 +306,7 @@ Times have changed. The Technion now offers several structured programs to bring
 
 There is also the ‘Bar Ilan plan’ (read: Bar-eelan, so named after a different Israeli university). This one pushes kids to complete their math finals by tenth grade. It frees two years of math time, which can be used for undergrad studies. These setups are all selective.
 
-For Columbia, which had quietly survived for decades, it meant stiff competition. Once given a choice, kids who would otherwise stay now opt out and partake in a benefit-carrying program. Left are only a handful of pupils, too few to warrant the investment. For the past two years, the school let the program lapse.
+For Columbia, which had quietly survived for five decades, it meant stiff competition. Once given a choice, kids who would otherwise stay now opt out, to partake in a benefit-carrying program. Left are only a handful of pupils, too few to warrant the investment. For the past two years, the school let the program lapse.
 
 ## <span class="h2n">22.</span>
 
@@ -329,4 +327,4 @@ The sheer surprise of it hit me in the gut with force. Before I knew it my eyes 
 
 In my years in math, this was not my cleverest, nor loveliest, nor most complex or sophisticated proof. It was a wispy little thing. But on this one time I got to feel what it's like, to be punched by beauty.
 
-<a href="/">Back to Top</a>
+### <a href="/"><span class="h2n">Back to Top</span></a>

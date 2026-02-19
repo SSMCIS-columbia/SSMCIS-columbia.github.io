@@ -1,13 +1,40 @@
 :root{
   --bg:#f6f3ee;
   --text:#1f2328;
+  --link:#c82354;
+  --caption:#44474b;
   --muted:rgba(0,0,0,.6);
   --rule:rgba(0,0,0,.10);
+
 }
 
 @font-face{
   font-family: "Special Elite";
   src: url("/assets/fonts/special-elite-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face{
+  font-family: "Raleway";
+  src: url("/assets/fonts/raleway/raleway-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face{
+  font-family: "Raleway-Semibold";
+  src: url("/assets/fonts/raleway/raleway-semibold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face{
+  font-family: "Staatliches";
+  src: url("/assets/fonts/staatliches/staatliches-regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -29,6 +56,21 @@ main{
   padding:0 1.25rem;
 }
 
+a {
+  color:var(--link);
+  text-decoration:none;
+}
+
+a:hover {
+  color:var(--link);
+  text-decoration:none;
+}
+
+.material {
+  color:var(--text);
+
+}
+
 .nav{
   max-width:46rem;
   margin:1.5rem auto 0;
@@ -39,10 +81,9 @@ main{
 
 .nav a{
   color:var(--text);
-  text-decoration:none;
   opacity:.85;
 }
-.nav a:hover{ text-decoration:underline; opacity:1; }
+.nav a:hover{color:var(--link); opacity:1; }
 
 img{
   max-width:100%;
@@ -52,10 +93,53 @@ img{
   /* border-radius:10px; */
 }
 
+.caption {
+  color:var(--caption);
+  text-align: center;
+  font-family: "Raleway", system-ui, sans-serif;
+  font-size: 1rem;
+  margin-bottom: 1.75rem;
+}
+
 .title {
   /* font-size: 36px; */
-  font-size: clamp(28px, 4vw, 48px);
+  font-family: "Special Elite", "Courier New", ui-monospace, monospace;
+  /* font-size: clamp(28px, 4vw, 48px); */
+  font-size: 3.25rem;
+  font-weight: 600;
+  margin: 0;
 }
+
+h1 .title{
+  display: block;
+  margin: 0;
+}
+
+.deck{
+  margin-top: 0;
+  font-family: "Raleway-Semibold", system-ui, sans-serif;
+  font-weight: 600;
+  /* font-size: clamp(20px, 4vw, 28px);            */
+  font-size: 2rem;         
+  color: var(--muted);
+  position: relative;
+}
+
+h2 .deck {
+  display: block;
+  
+}
+
+.materials-headline {
+  font-family: "Staatliches", "Special Elite", "Courier New";
+  font-size: clamp(20px, 4vw, 28px);
+  font-weight: 600;
+  color: var(--caption);
+}
+h1 .materials-headline {
+  display: block;
+}
+
 .h2n{
   font-family: "Special Elite", "Courier New", ui-monospace, monospace;
 }
