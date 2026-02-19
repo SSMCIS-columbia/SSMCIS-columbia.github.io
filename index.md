@@ -64,7 +64,7 @@ For reading material, candy-coloured book covers pitched math as hot <i>and</i> 
 
 <figure>
   <img src="/assets/images/math-books.png" alt="Math books">
-  <figcaption class = "caption">Covers of popular-math books, 1957-1965. Source: ebay</figcaption>
+  <figcaption class = "caption">Covers of popular-math books, 1957-1965. Source: Ebay</figcaption>
 </figure>
 
 At the movies, Disney got an Oscar nod for "Mathmagicland", where a spirit guides Donald Duck through a technicolour "wonderland of mathematics.” Four years later, "The Dot and the Line: A Romance in Lower Mathematics" won the award in the short film category.

@@ -131,13 +131,10 @@ h2 .deck {
 }
 
 .materials-headline {
-  font-family: "Staatliches", "Special Elite", "Courier New";
+  font-family: "Special Elite", "Staatliches", "Courier New";
   font-size: clamp(20px, 4vw, 28px);
   font-weight: 600;
   color: var(--caption);
-}
-h1 .materials-headline {
-  display: block;
 }
 
 .h2n{
