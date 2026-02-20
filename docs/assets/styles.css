@@ -128,6 +128,20 @@ h2:has(.secnum) { margin: 0; }
 p + h2:has(.secnum) { margin-top: 1.8em; }
 h2:has(.secnum) + p { margin-top: 0.4em; }
 
+.desc {
+  font-family: "Special Elite", "Staatliches", "Courier New";
+   font-size: clamp(20px, 4vw, 24px);
+   font-weight: 400;
+   color: var(--muted);
+}
+
+h2.desc { margin: 0; }
+h1.title + h2.desc {margin-top: 0.1em;}
+h2.desc + *{
+  margin-top: 1.8em;      /* or whatever you like */
+}
+
+
 .deck{
   margin-top: 0;
   font-family: "Raleway-Semibold", system-ui, sans-serif;
@@ -140,7 +154,6 @@ h2:has(.secnum) + p { margin-top: 0.4em; }
 
 h2 .deck {
   display: block;
-  
 }
 
 .materials-headline {

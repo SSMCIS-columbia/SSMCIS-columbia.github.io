@@ -9,7 +9,7 @@ Hi, I'm Vered Zimmerman.
 
 I was taught math at school in what we called "The Columbia Program", (תכנית קולומביה).
 
-It had been running since forever, and everyone called it that because the only thing handed down was "it was developed at Columbia University". It took some digging, over a stretch of time, to unpack why it was so different and how it survived.
+It had been running since forever, and this was its name because the only thing handed down was "it was developed at Columbia University". It took some digging, over a stretch of time, to unpack why it was so different and how it survived.
 
 The more I learned, the more dismayed I was at how quickly meaningful work can vanish. The Seconday School Mathematics Curriculum Improvement Study (SSMCIS) was an exceptionally ambitious undertaking. It's as relevant today as it was when created, at the height of the American 'New Math' era.
 

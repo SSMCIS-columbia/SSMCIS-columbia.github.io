@@ -4,10 +4,10 @@ title: Home
 ---
 
 <h1 class="title" >ONCE UPON A TIME IN MATH </h1>
+<h2 class="typewriter desc">A Sputnik-era plan to teach kids advanced mathematics quietly lives on</h2>
 
 {% comment %}
 
-<h2 class="deck">A Sputnik-era plan to teach kids advanced mathematics quietly lives on</h2>
 {% endcomment %}
 
 <p class = "typewriter">Vered Zimmerman<br>
