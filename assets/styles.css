@@ -123,12 +123,9 @@ h1.title{
   margin: 0;
 }
 
-.secnum{ margin: 0;}
-
-
 
 h2:has(.secnum) { margin: 0; }
-p + h2:has(.secnum) { margin-top: 1.5em; }
+p + h2:has(.secnum) { margin-top: 1.8em; }
 h2:has(.secnum) + p { margin-top: 0.4em; }
 
 .deck{
