@@ -44,7 +44,8 @@ The five-year period that ushered in the American "New Math" era reads very much
 <li>	The diplomat, Howard Franklin Fehr. A prolific scholar in the field of math education and the head of the mathematics department at Teachers College, New York.</li>
 <li> The eccentric Frenchman, Jean Dieudonné.</li>
 </ul>
-It’s 1959, and the Americans are all staring down fabulous wealth, so to speak. The NSF annual budget has just been tripled, to $134 million, with an urgent mission to do something about science education. Within a decade, it’ll grow to $500 million/yr.
+
+It’s 1959, and the Americans are all staring down fabulous wealth, so to speak. The NSF annual budget has just been tripled, to $134 million, with an urgent mission to do something about science education. Within a decade, it’ll grow to $500 million per year.
 
 They and others gather in a countryside abbey at Royaumont, France, and a murder is announced. The Frenchman, Dieudonné, rises to give his speech and calls out: “Down with Euclid! Death to Triangles!”
 
