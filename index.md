@@ -7,10 +7,10 @@ title: Home
 
 {% comment %}
 
-<h2 class="deck">A Sputnik-era plan to teach kids math has quietly lived on</h2>
+<h2 class="deck">A Sputnik-era plan to teach kids advanced mathematics quietly lives on</h2>
 {% endcomment %}
 
-<p class = "h2n">Vered Zimmerman<br>
+<p class = "typewriter">Vered Zimmerman<br>
 February 2026
 </p>
 
@@ -19,23 +19,23 @@ February 2026
   
 </figure>
 
-## <span class="h2n">1.</span>
+## <span class="typewriter">1.</span>
 
 The Russians placed Sputnik 1 in orbit on October 4, 1957, making sure <i>everyone</i> could hear it. The rocket sending it up there had the range to reach America, but this was almost an aside. What mattered more was that the Soviets had made space theirs, and the Americans did not. Invisible in the night’s sky, the United States could nonetheless feel it, looking down, mocking.
 
-## <span class="h2n">2.</span>
+## <span class="typewriter">2.</span>
 
 I used to go back and stop time, right before math class on the first week of middle school. In the hall, young children are frozen in motion, scrambling to get into rooms. I would lean against a wall and gaze at twelve-year-old me. To her, this new school seems huge. Some of the older kids look like adults, how is that even possible. She wonders if she counts as chubby.
 
 Knowing what’s about to happen, I used to look at her and think about choices and luck. Other times, I would try to glimpse nature from nurture. Until, one day, she slowly turns her head and looks back at me, worried. “Leave me alone,” she says, “it’s class now.” So on that day I walked away from her for the last time.
 
-## <span class="h2n">3.</span>
+## <span class="typewriter">3.</span>
 
 Even before Sputnik, the US was concerned its math education was too uneven, too aimless. In 1950 the Americans set up the National Science Foundation (NSF), to invest in science research and education. In 1955, the College Entrance Examination Board appointed a special commission to suggest changes to how math is taught in high school, so students arrive at university better prepared.
 
 The trouble was, math had progressed as rapidly as any of the other sciences, but school kids were still being taught the best and the finest of seventeenth-century wisdom. Math education is rarely a headline grabber, but suddenly it was the space age.
 
-## <span class="h2n">4.</span>
+## <span class="typewriter">4.</span>
 
 The five-year period that ushered in the American New Math era reads very much like an Agatha Christie mystery. Among the characters are:
 
@@ -56,7 +56,7 @@ Howard Fehr had prepared the final Rayoumond report, published in 1961. There, D
 
 A set of guidelines on how to do it came in the form of a report, “Goals for School Mathematics”, with ideas hashed out by Begle and top-tier mathematicians in a 1963 gathering at Cambridge, Mass. This report laid the foundation for the New Math wave in the US.
 
-## <span class="h2n">5.</span>
+## <span class="typewriter">5.</span>
 
 New Math is remembered as a failed experiment, a bad relationship. As often happens in breakups, this retelling excludes the honeymoon period, when America fell madly in love with math. Starting in the late 50s, pop culture couldn’t get enough.
 
@@ -71,7 +71,7 @@ At the movies, Disney got an Oscar nod for "Mathmagicland", where a spirit guide
 
 Or you could just watch TV. For adults, NBC produced “The Bedrock of Logical Thought”, a ten-part math talk show (!) For teens, Westinghouse made the nine-part “Adventures in Numbers and Space” (advised by Howard Fehr). The TV guide printed listings like “Bil Baird and his puppets discuss topology and Euler's theorem”, and everyone thought this was normal.
 
-## <span class="h2n">6.</span>
+## <span class="typewriter">6.</span>
 
 Improbably, the era’s math frenzy also gave us "The Very Hungry Caterpillar". This toddler staple has been munching its way through tens of millions of copies since 1969.
 
@@ -93,7 +93,7 @@ He then found greener pastures in counting, illustrating for none other than How
   <figcaption class = "caption">"If You Can Count to 10", 1964</figcaption>
 </figure>
 
-## <span class="h2n">7.</span>
+## <span class="typewriter">7.</span>
 
 Our fingers are good for many things, including telling us that 5 plus 5 are 10. But equally, if today is a Thursday, and someone asks us what day it will be in five days’ time, we will tell them it’s a Tuesday. In day-counting, 5 plus 5 comes out as 3.
 
@@ -114,7 +114,7 @@ And subtly, imperceptibly, we learn our first lesson: numbers are not absolute. 
   <figcaption class = "caption">Year 1, Chapter 1</figcaption>
 </figure>
 
-## <span class="h2n">8.</span>
+## <span class="typewriter">8.</span>
 
 It’s ironic how, in its bid for space victory, what America felt it needed was the French. But, at a time when all ills were due to old math, they had one name in mind: Nicolas Bourbaki.
 
@@ -139,7 +139,7 @@ But if groups matter so much, why has no one ever taught them at school? In the 
 
 Take a final look at this chart. It’s how undergrad math degrees are universally taught today. Of all French exports, it can be argued the most successful was neither the croissant nor champagne, but how to think about math.
 
-## <span class="h2n">9.</span>
+## <span class="typewriter">9.</span>
 
 TIME Magazine <br>
 December 2, 1957
@@ -148,7 +148,7 @@ December 2, 1957
 
 Columbia Teachers College. Did I mention Teachers College has been affiliated with Columbia University since 1891?
 
-## <span class="h2n">10.</span>
+## <span class="typewriter">10.</span>
 
 Evidently, Fehr was a gifted project manager. Books and TV shows; papers and conferences; speeches and admin; these were all mere side hustles compared to the “Secondary School Mathematics Curriculum Improvement Study” (SSMCIS). It was the pinnacle of his career, stretching from ‘65 to ‘76, when the money ran out.
 
@@ -158,15 +158,15 @@ The textbook series was called “Unified Modern Mathematics” and did what it 
 
 Fehr had observed how New Math rollouts had faltered and wasn’t about to repeat mistakes. The list of stakeholder-groups alone reads like the planning of a high-stakes caper:
 
-<span class = "h2n"> \* </span>The first group is mathematicians and educators, who advise on topics; <br>
-<span class = "h2n"> \* </span>The second is more mathematicians and educators, who develop the syllabus; <br>
-<span class = "h2n"> \* </span>A third, the writers;<br>
-<span class = "h2n"> \* </span>A fourth, research assistants and typists; <br>
-<span class = "h2n"> \* </span>The fifth, classroom teachers;<br>
-<span class = "h2n"> \* </span>The sixth, classroom students;<br>
-<span class = "h2n"> \* </span>And the seventh, observers, to observe the teachers and the students.
+<span class = "typewriter"> \* </span>The first group is mathematicians and educators, who advise on topics; <br>
+<span class = "typewriter"> \* </span>The second is more mathematicians and educators, who develop the syllabus; <br>
+<span class = "typewriter"> \* </span>A third, the writers;<br>
+<span class = "typewriter"> \* </span>A fourth, research assistants and typists; <br>
+<span class = "typewriter"> \* </span>The fifth, classroom teachers;<br>
+<span class = "typewriter"> \* </span>The sixth, classroom students;<br>
+<span class = "typewriter"> \* </span>And the seventh, observers, to observe the teachers and the students.
 
-## <span class="h2n">11.</span>
+## <span class="typewriter">11.</span>
 
 For us there was no “New Math”, there was just math. Whether she knew or not, our eighth-grade math teacher was disliked for her impossible tests. In practice, she was a competent teacher entrusted with tough material.
 
@@ -190,7 +190,7 @@ But all these are mere preliminaries to the real goal, which was studying transf
 
 That escalated quickly, didn’t it? Proving felt perilous and doomed, like navigating the open ocean in a leaky boat. I was now thirteen, and felt soot-black shame at how much I was struggling with math. No one likes to feel dumb.
 
-## <span class="h2n">12.</span>
+## <span class="typewriter">12.</span>
 
 By the early seventies, America at large was feeling great. It had won. It had put a man on the moon, and its scientific prowess was rivalled by none.
 
@@ -200,7 +200,7 @@ This manifesto was written by Morris Kline, himself a mathematician. He thought 
 
 In the end, even with all that money, US educators just couldn’t bring New Math to everyone. Nature. Nurture. Luck. Choice. Round and round it goes.
 
-## <span class="h2n">13.</span>
+## <span class="typewriter">13.</span>
 
 When tiger cubs playfully pounce each other in nature shows, a voiceover murmurs they are practicing their hunting skills. This is both true and false; skills are being practiced, but the cubs are clearly having fun.
 
@@ -218,7 +218,7 @@ People take different routes to solving a problem: one might draw a picture; ano
 
 You could hear when you were doing it wrong. Until, with practice, you begin to experience the pleasure of getting it right. The final result sits on the page like a tiny origami swan, all clean lines and economy of construction. A universal truth that, somehow, belongs only to you.
 
-## <span class="h2n">14.</span>
+## <span class="typewriter">14.</span>
 
 One year, our class had a special school trip, where we would be joined by two other gifted classes from different cities. It really didn’t take long until someone popped the question: how are you guys finding Columbia?
 
@@ -228,7 +228,7 @@ In time we learned we were alone. In the whole of the country, just one class pe
 
 No one could tell.
 
-## <span class="h2n">15.</span>
+## <span class="typewriter">15.</span>
 
 Hunter College, New York, is an elite school with a building shaped like an armoury and an admissions record to match. It boasts that its twelve hundred students – thirty percent fewer than it was educating in 1878 - "represent the top one-quarter of one percent of students in New York City”.
 
@@ -236,9 +236,9 @@ Once you start playing the elite game, why stop? To this end, math remains an ef
 
 <i>“The Extended Honors Program was originally based on the Secondary School Mathematics Curriculum Improvement Study (SSMCIS) Program. It includes many advanced topics and requires extensive preparation and a considerable commitment of time to the study of mathematics.”</i>
 
-## <span class="h2n">16.</span>
+## <span class="typewriter">16.</span>
 
-From the SSSMICS final report submitted to the National Science Foundation:
+From the SSMCIS final report submitted to the National Science Foundation:
 
 <figure>
   <img src="/assets/images/textbook-translation.png" alt="Textbook translations">
@@ -254,7 +254,7 @@ But young Israeli kids couldn’t read English. Marcus was a very close friend o
 
 Together with Fehr, early on they agreed Skidell would translate the books. The final version of the first SSMCIS book was published in 1968; a year later, its Hebrew version followed.
 
-## <span class="h2n">17.</span>
+## <span class="typewriter">17.</span>
 
 Marcus decided to launch the program with a pilot, for which he would personally select two teachers, from two different schools. He set the pilot in Haifa, the largest metropolitan in Northern Israel. Haifa’s strongest school was the private Hebrew Reali School. It had a renowned math teacher, Benjamin Maier, with whom Marcus had already worked on recording TV math lessons for the public broadcaster. He was a natural choice.
 
@@ -270,7 +270,7 @@ But for Movshovitz-Hadar, it was a life changing experience. New York had made s
 
 By the mid-70s, Columbia had been moved to a different school, and was being taught only to the city’s gifted class. But the Ministry of Education continued translating the middle-school textbooks, presumably for wider use. Skidell’s translated versions of the second- and third- year books were published in 1974 and 1975 respectively.
 
-## <span class="h2n">18.</span>
+## <span class="typewriter">18.</span>
 
 It was the mid '90s, and we were about to start high school. Suddenly there was a choice: after three years of compulsory study, pupils could opt out of Columbia, and do whatever everyone else did.
 
@@ -278,7 +278,7 @@ Columbia offered no extra credit. The final marks would be the scores on interna
 
 For the other half, by then we kind of got the hang of Columbia. Leaving would mean getting used to a new system, and who wants that. Also, quitting was unfathomable.
 
-## <span class="h2n">19.</span>
+## <span class="typewriter">19.</span>
 
 Looking back, you didn’t need Columbia to do well at university, but it sure didn’t hurt. The payoff was in how old things connected, and new things weren’t too hard.
 
@@ -286,7 +286,7 @@ For example, it covered much of first-year undergrad calculus at a comfortable p
 
 Also, and this I only understood later in life, the means are the end. For three years, we were taught by a very, very good teacher.
 
-## <span class="h2n">20.</span>
+## <span class="typewriter">20.</span>
 
 When Marcus chose Haifa as his New Math epicentre, he likely didn’t care that the city happens to be a university town. After all, his was the business of teaching math to kids; what they do once they get to university was somebody else’s problem. One afternoon, I became somebody else’s problem.
 
@@ -298,7 +298,7 @@ There were twenty-one students taking the class that term, four of whom were kid
 
 The material laid out had the elegance of spring dew. We saw how infinity was not one thing, and how to show one infinity is bigger than another. This time easily ranks among my top five life experiences. It was good funnelling: at least three of those kids later chose a math degree.
 
-## <span class="h2n">21.</span>
+## <span class="typewriter">21.</span>
 
 Back then, such academic forays were tolerated but not encouraged. Also, no one fussed. The academic credits were meagre, as I was only doing a course per term. I was lucky to have friends who thought being curious was cool. Since many of them were in Columbia too, they accepted the premise of depth and joy, even when math wasn’t their thing.
 
@@ -308,13 +308,13 @@ There is also the ‘Bar Ilan plan’ (read: Bar-eelan, so named after a differe
 
 For Columbia, which had quietly survived for five decades, it meant stiff competition. Once given a choice, kids who would otherwise stay now opt out, to partake in a benefit-carrying program. Left are only a handful of pupils, too few to warrant the investment. For the past two years, the school let the program lapse.
 
-## <span class="h2n">22.</span>
+## <span class="typewriter">22.</span>
 
 In the US, the end of New Math did not spell better results in standardised math tests. As new reforms came and went, the era left a hollow yearning for the onetime alacrity to aim high. Ever since, educators periodically try to whip some of that magic by calling for a ‘new Sputnik moment’.
 
 School math is taught so it can be used to calculate, test, compare, affirm, gain entry, tick a box, socialise, screen, build resilience, earn status, split tabs and pay taxes. Past all this, once in a blue moon, it turns funny.
 
-## <span class="h2n">23.</span>
+## <span class="typewriter">23.</span>
 
 You know, it was the smallest thing. Two years into my math undergrad, in a spring term final. A question was asking to prove a statement, specifically testing our use of a certain mathematical hammer. The standard proof would involve a splitting into a number of cases, and ruling each out as impossible, until the only one left was the desired result.
 
@@ -327,4 +327,4 @@ The sheer surprise of it hit me in the gut with force. Before I knew it my eyes 
 
 In my years in math, this was not my cleverest, nor loveliest, nor most complex or sophisticated proof. It was a wispy little thing. But on this one time I got to feel what it's like, to be punched by beauty.
 
-### <a href="/"><span class="h2n">Back to Top</span></a>
+### <a href="/"><span class="typewriter">Back to Top</span></a>
