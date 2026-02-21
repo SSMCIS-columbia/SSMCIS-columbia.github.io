@@ -315,7 +315,7 @@ For Columbia, which had quietly survived for five decades, it meant stiff compet
 
 In the US, the end of New Math did not spell better results in standardised math tests. As new reforms came and went, the era left a hollow yearning for the onetime alacrity to aim high. Ever since, educators periodically try to whip some of that magic by calling for a ‘new Sputnik moment’.
 
-School math is taught so it can be used to calculate, test, compare, affirm, gain entry, tick a box, socialise, screen, build resilience, earn status, split tabs and pay taxes. Past all this, once in a blue moon, it turns funny.
+But to do what? School math is taught so it can be used to calculate, test, compare, affirm, gain entry, tick a box, socialise, screen, build resilience, earn status, split tabs and pay taxes. Past all this, once in a blue moon, it turns funny.
 
 ## <span class="typewriter secnum">23.</span>
 
