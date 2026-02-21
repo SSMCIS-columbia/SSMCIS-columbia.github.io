@@ -18,4 +18,4 @@ The more I learned, the more dismayed I was at how quickly meaningful work can v
 I am gratful to Nitsa Movshovitz-Hadar, without whom the key questions would have remained unanswered.
 I also thank Asaf Ben Bassat and Asaf Zarmi, who added to my understanding of both the present and the past.
 
-This project is in memory of Tova Libman (1953-2025), who was graceful in life and in math.
+This project is in memory of Tova Libman (1952-2025), who was graceful in life and in math.
