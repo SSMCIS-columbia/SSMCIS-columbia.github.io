@@ -1,6 +1,8 @@
 ---
 layout: default.html
-title: Home
+title: ONCE UPON A TIME IN MATH
+description: A Sputnik-era plan to teach kids advanced mathematics quietly lives on
+image: https://ssmcis-columbia.github.io/assets/images/sputnik-1.jpg
 ---
 
 <h1 class="title" >ONCE UPON A TIME IN MATH </h1>

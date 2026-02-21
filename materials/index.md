@@ -1,6 +1,8 @@
 ---
 layout: default.html
 title: Materials
+description: SSMCIS - Textbooks and progress reports
+image: https://ssmcis-columbia.github.io/assets/images/sputnik-1.jpg
 ---
 
 <h2 class = "materials-headline">UNIFIED MODERN MATHEMATICS</h2>

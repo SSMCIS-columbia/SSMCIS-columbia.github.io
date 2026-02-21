@@ -1,11 +1,13 @@
 ---
 layout: default.html
 title: About
+description: About SSMCIS - Columbia
+image: https://ssmcis-columbia.github.io/assets/images/sputnik-1.jpg
 ---
 
 <h1 class="title" >ABOUT </h1>
 
-Hi, I'm Vered Zimmerman.
+Hi, I'm Vered.
 
 I was taught math at school in what we called "The Columbia Program", (תכנית קולומביה).
 
