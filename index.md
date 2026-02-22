@@ -82,7 +82,7 @@ It was written and drawn by Eric Carle. In the official telling, it is the third
 
 Supposedly, Carle was working as an illustrator at an advertising agency. One day, a children’s book author sees an ad with a bright red lobster. Besotted, he seeks out Carle to illustrate his new book “Brown Bear, Brown Bear, What Do You see?”. It gets published in ‘67 and becomes a smash hit.
 
-This wonderful Cinderella story is dented only by the fact it’s untrue. In the spirit of the age, Eric Carle got his entry into children’s books in the early sixties, via nursery physics.
+This wonderful Cinderella story is dented only by the fact it’s untrue. In the spirit of the age, Carle got his entry into children’s books in the early sixties, via nursery physics.
 
 <figure>
   <img src="/assets/images/carle-physics.png" alt="Eric Carle Physics">
