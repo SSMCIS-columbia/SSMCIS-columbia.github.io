@@ -1,6 +1,6 @@
 ---
 layout: default.html
-title: ONCE UPON A TIME IN MATH
+title: Once Upon a Time in Math
 description: A Sputnik-era plan to teach kids advanced mathematics quietly lives on
 image: https://ssmcis-columbia.github.io/assets/images/sputnik-1.jpg
 ---
