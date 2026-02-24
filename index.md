@@ -249,7 +249,7 @@ From the SSMCIS final report submitted to the National Science Foundation:
 
 Here’s how this came about.
 
-In the late sixties Moshe Marcus was the national superintendent of mathematics at the Israeli Ministry of Education. He was well aware of the change spreading across the US and Europe. From 1959, US initiatives had access to incredible funding, so their progress was closely followed. And Fehr was ever-present at international conferences and in journals.
+In the late sixties Asher Marcus was the national superintendent of mathematics at the Israeli Ministry of Education. He was well aware of the change spreading across the US and Europe. From 1959, US initiatives had access to incredible funding, so their progress was closely followed. And Fehr was ever-present at international conferences and in journals.
 
 While Fehr’s program was only ever meant for the top twenty percent, Marcus intended to roll it out nationwide, so all children in Israel would be educated this way. After all, this was clearly the future.
 
@@ -263,7 +263,7 @@ Marcus decided to launch the program with a pilot, for which he would personally
 
 The second teacher was a young woman named Nitsa Movshovitz-Hadar, who herself had been a student of Maier’s only a few years prior. She then studied math and physics at the Hebrew University in Jerusalem, where she also got a teacher’s diploma, and went on to teach. She was now teaching at a public school, and nervous about having the national superintendent himself watch her class. She got picked.
 
-In the summer of 1971 the two spent five weeks in New York, attending Fehr’s teacher-training course. Upon their return, each set out to train their colleagues. This wasn’t a problem because, at the time, a bachelor’s degree in mathematics was a prerequisite for teaching math in schools. The teachers easily understood the material. But could they teach it to an entire student body?
+In the summer of 1971 the two spent six weeks in New York, attending Fehr’s teacher-training course. Upon their return, each set out to train their colleagues. This wasn’t a problem because, at the time, a bachelor’s degree in mathematics was a prerequisite for teaching math in schools. The teachers easily understood the material. But could they teach it to an entire student body?
 
 “Oh, we all loved it,” she says. “I would leave each class floating with joy.“
 
