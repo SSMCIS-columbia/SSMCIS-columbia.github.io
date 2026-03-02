@@ -269,7 +269,7 @@ In the summer of 1971 the two spent six weeks in New York, attending Fehr’s te
 
 The problems, she adds, were never about student competence. Rather, the program was designed for five weekly math lessons, whereas the national allocation only offered four. Therefore, each year would fall short of completing the material, which created problems the following year. There was also the question of continuity. The SSMCIS middle-school material didn’t align with the existing senior-school plan, and Fehr’s team was still writing those latter books.
 
-But for Movshovitz-Hadar, it was a life changing experience. New York had made such an impression, she was resolved to spend more time in the States. Within a year she was accepted to a PhD in Berkely, California. With her husband and two young children, she set off on an adventure. Four years later she returned to Israel and became a math-education professor, and eventually also served as the director of the Israel National Museum of Science.
+But for Movshovitz-Hadar, it was a life-changing experience. New York had made such an impression, she was resolved to spend more time in the States. Within a year she was accepted to a PhD in Berkely, California. With her husband and two young children, she set off on an adventure. Four years later she returned to Israel and became a math-education professor, and eventually also served as the director of the Israel National Museum of Science.
 
 By the mid-70s, Columbia had been moved to a different school, and was being taught only to the city’s gifted class. But the Ministry of Education continued translating the middle-school textbooks, presumably for wider use. Skidell’s translated versions of the second- and third- year books were published in 1974 and 1975 respectively.
 
@@ -329,5 +329,9 @@ Instead of a series of niggly cases, this little tug instantly showed there coul
 The sheer surprise of it hit me in the gut with force. Before I knew it my eyes swelled with tears. I felt an urgent need to walk and breathe. I took a bathroom break to step outside. Circling the hall, I turned the argument in my mind, this way and that, looking for flaws. Then I went back in and wrote it down, all five lines of it.
 
 In my years in math, this was not my cleverest, nor loveliest, nor most complex or sophisticated proof. It was a wispy little thing. But on this one time I got to feel what it's like, to be punched by beauty.
+<br>
+<br>
+<br>
+<br>
 
 ### <a href="/"><span class="typewriter">Back to Top</span></a>
