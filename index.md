@@ -29,13 +29,13 @@ The Russians placed Sputnik 1 in orbit on October 4, 1957, making sure <i>everyo
 
 I used to go back and stop time, right before math class on the first week of middle school. In the hall, young children are frozen in motion, scrambling to get into rooms. I would lean against a wall and gaze at twelve-year-old me. To her, this new school seems huge. Some of the older kids look like adults, how is that even possible. She wonders if she counts as chubby.
 
-Knowing what’s about to happen, I used to look at her and think about choices and luck. Other times, I would try to glimpse nature from nurture. Until, one day, she slowly turns her head and looks back at me, worried. “Leave me alone,” she says, “it’s class now.” So on that day I walked away from her for the last time.
+Knowing what’s about to happen, I used to look at her and think about choices and luck. Other times, I would try to glimpse nature from nurture. Until, one day, she slowly turns her head and looks back at me, worried. “Leave me alone,” she says, “it’s class now.” So that day I walked away from her for the last time.
 
 ## <span class="typewriter secnum">3.</span>
 
 Even before Sputnik, the US was concerned its math education was too uneven, too aimless. In 1950 the Americans set up the National Science Foundation (NSF), to invest in science research and education. In 1955, the College Entrance Examination Board appointed a special commission to suggest changes to how math is taught in high school, so students arrive at university better prepared.
 
-The trouble was, math had progressed as rapidly as any of the other sciences, but school kids were still being taught the best and the finest of seventeenth-century wisdom. Math education is rarely a headline grabber, but suddenly it was the space age.
+The trouble was, math had progressed as rapidly as any of the other sciences, but school kids were still being taught the best and the finest of seventeenth-century wisdom. Math education rarely grabs headlines, but suddenly it was the space age.
 
 ## <span class="typewriter secnum">4.</span>
 
@@ -215,7 +215,7 @@ We liked their air of punchy authority, and expressions started filtering into e
   <img src="/assets/images/definition.png" alt="A definition">
 </figure>
 
-Math wasn’t always written so rigidly, and critics like Kline believed teaching this way stifles children’s creativity, with style obscuring how math gets done. But this was a red herring, because even the most ardent supporters of this form have always explicitly said that ‘doing math’ was a two-step affair.
+Math wasn’t always written so rigidly, and critics like Kline believed teaching this way stifles children’s creativity, with style obscuring how math gets done. But this was a red herring; even the most ardent supporters of this form have always explicitly said that ‘doing math’ was a two-step affair.
 
 People take different routes to solving a problem: one might draw a picture; another tries out examples in search of a pattern; a third might try tweaking a previous logical chain. Whichever, it helps when everyone writes out their proofs in the same, crystal-clear way.
 
@@ -249,7 +249,7 @@ From the SSMCIS final report submitted to the National Science Foundation:
 
 Here’s how this came about.
 
-In the late sixties Asher Marcus was the national superintendent of mathematics at the Israeli Ministry of Education. He was well aware of the change spreading across the US and Europe. From 1959, US initiatives had access to incredible funding, so their progress was closely followed. And Fehr was ever-present at international conferences and in journals.
+In the late sixties Asher Marcus was the national superintendent of mathematics at the Israeli Ministry of Education. He was well aware of the change spreading across the US and Europe. From 1959, US initiatives had access to incredible funding, so their progress was closely followed. And Fehr was ever-present in journals and at international conferences.
 
 While Fehr’s program was only ever meant for the top twenty percent, Marcus intended to roll it out nationwide, so all children in Israel would be educated this way. After all, this was clearly the future.
 
@@ -269,21 +269,21 @@ In the summer of 1971 the two spent six weeks in New York, attending Fehr’s te
 
 The problems, she adds, were never about student competence. Rather, the program was designed for five weekly math lessons, whereas the national allocation only offered four. Therefore, each year would fall short of completing the material, which created problems the following year. There was also the question of continuity. The SSMCIS middle-school material didn’t align with the existing senior-school plan, and Fehr’s team was still writing those latter books.
 
-But for Movshovitz-Hadar, it was a life-changing experience. New York had made such an impression, she was resolved to spend more time in the States. Within a year she was accepted to a PhD in Berkely, California. With her husband and two young children, she set off on an adventure. Four years later she returned to Israel and became a math-education professor, and eventually also served as the director of the Israel National Museum of Science.
+But for Movshovitz-Hadar it was a life-changing experience. New York had made such an impression, she was resolved to spend more time in the States. Within a year she was accepted to a PhD in Berkely, California. With her husband and two young children, she set off on an adventure. Four years later she returned to Israel and became a math-education professor, eventually also serving as the director of the Israel National Museum of Science.
 
 By the mid-70s, Columbia had been moved to a different school, and was being taught only to the city’s gifted class. But the Ministry of Education continued translating the middle-school textbooks, presumably for wider use. Skidell’s translated versions of the second- and third- year books were published in 1974 and 1975 respectively.
 
 ## <span class="typewriter secnum">18.</span>
 
-It was the mid '90s, and we were about to start high school. Suddenly there was a choice: after three years of compulsory study, pupils could opt out of Columbia, and do whatever everyone else did.
+It was the mid '90s and we were about to start high school. Suddenly there was a choice: after three years of compulsory study, pupils could opt out of Columbia, and do whatever everyone else did.
 
 Columbia offered no extra credit. The final marks would be the scores on internal finals instead of the national exams. (As was the case with the original SSMCIS.) Why take the extra hardship for mostly downside risk? Half the class quit in a heartbeat.
 
-For the other half, by then we kind of got the hang of Columbia. Leaving would mean getting used to a new system, and who wants that. Also, quitting was unfathomable.
+For the other half, by then we kind of got the hang of Columbia. Leaving would mean getting used to a new system and who wants that. Also, quitting was unfathomable.
 
 ## <span class="typewriter secnum">19.</span>
 
-Looking back, you didn’t need Columbia to do well at university, but it sure didn’t hurt. The payoff was in how old things connected, and new things weren’t too hard.
+Looking back, you didn’t need Columbia to do well at university, though it sure didn’t hurt. The payoff was in how old things connected, and how new things weren’t too hard.
 
 For example, it covered much of first-year undergrad calculus at a comfortable pace. All of science lives atop this stuff, but at undergrad pace the material can come as a shock: notions of infinity coexisting with proximity; Greek letters playing very specific roles; tricky proofs. Columbia stretched it out.
 
@@ -291,13 +291,13 @@ Also, and this I only understood later in life, the means are the end. For three
 
 ## <span class="typewriter secnum">20.</span>
 
-When Marcus chose Haifa as his New Math epicentre, he likely didn’t care that the city happens to be a university town. After all, his was the business of teaching math to kids; what they do once they get to university was somebody else’s problem. One afternoon, I became somebody else’s problem.
+When Marcus chose Haifa as his New Math epicentre, he likely didn’t care that the city happens to be a university town. After all, his was the business of teaching math to kids; what they do once they get to university - typically in their early twenties, after several years of national service - was somebody else’s problem. One afternoon, I became somebody else’s problem.
 
 At the start of my junior year of high school I decided to take academic math courses at the Technion (the Israeli Institute of Technology), and now had to face the single qualifying hurdle: meeting an actual mathematician. I was wary of what he might ask – math riddles? difficult computations? – but was assured it would just be a friendly chat. Mostly, he wanted to know I was choosing this out of my own volition. With this cleared, he said they recommend starting with “Set Theory”.
 
 I was high on success. No more having just any old homework; I was good enough to have <i>grownup</i> homework. The cost for the whole term, with academic credits, came to about thirty hours of teenage minimum wage. (My parents paid.)
 
-There were twenty-one students taking the class that term, four of whom were kids; I wasn’t even the youngest. There was an older girl from my school (also in Columbia), and two boys from elsewhere. In the tiniest of classrooms, we earnestly packed the front row. Into the room came a chuckling math professor, visibly amused with his crowd. Throughout the term, he graciously treated us no different to any other student.
+There were twenty-one students taking the class that term, four of whom were kids; I wasn’t even the youngest. There was an older girl from my school (also in Columbia), and two boys from elsewhere. In the tiniest of classrooms, we earnestly packed the front row. Into the room came a chuckling math professor, visibly amused with his crowd. Throughout the term, he graciously treated us no different to any of the other students.
 
 The material laid out had the elegance of spring dew. We saw how infinity was not one thing, and how to show one infinity is bigger than another. This time easily ranks among my top five life experiences. It was good funnelling: at least three of those kids later chose a math degree.
 
@@ -319,7 +319,7 @@ But to do what? School math is taught so it can be used to calculate, test, comp
 
 ## <span class="typewriter secnum">23.</span>
 
-You know, it was the smallest thing. Two years into my math undergrad, in a spring term final. A question was asking to prove a statement, specifically testing our use of a certain mathematical hammer. The standard proof would involve a splitting into a number of cases, and ruling each out as impossible, until the only one left was the desired result.
+You know, it was the smallest thing. Two years into my math undergrad, in a spring term final. A question was asking to prove a statement, specifically testing our use of a certain mathematical hammer. The standard proof would involve a splitting into a number of cases and ruling each out as impossible, until the only one left was the desired result.
 
 It was a topic I liked, and had independently read a little further along, enough to be aware of an object that must always exist. All I did was ask, “Well, how big is this thing here anyways?” <br>
 In a flash, right there and then, the whole problem collapsed.
