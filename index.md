@@ -291,7 +291,7 @@ Also, and this I only understood later in life, the means are the end. For three
 
 ## <span class="typewriter secnum">20.</span>
 
-When Marcus chose Haifa as his New Math epicentre, he likely didn’t care that the city happens to be a university town. After all, his was the business of teaching math to kids; what they do once they get to university - typically in their early twenties, after several years of national service - was somebody else’s problem. One afternoon, I became somebody else’s problem.
+When Marcus chose Haifa as his New Math epicentre, he likely didn’t care that the city happens to be a university town. After all, his was the business of teaching math to kids; what they do once they get to university – typically in their early twenties, after several years of national service – was somebody else’s problem. One afternoon, I became somebody else’s problem.
 
 At the start of my junior year of high school I decided to take academic math courses at the Technion (the Israeli Institute of Technology), and now had to face the single qualifying hurdle: meeting an actual mathematician. I was wary of what he might ask – math riddles? difficult computations? – but was assured it would just be a friendly chat. Mostly, he wanted to know I was choosing this out of my own volition. With this cleared, he said they recommend starting with “Set Theory”.
 
