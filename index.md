@@ -104,7 +104,7 @@ Say someone wakes you up at 3am, and asks you what time it will be today in 22 h
 
 It’s not going to be today, you explain, because a day moves in circles of 24 hours, just like the week moves in circles of 7 days, and our years move in 52 weeks, which are 12 months. We add numbers round and round and think nothing of it.
 
-7, 12, 24, 52, 365. Wouldn’t you say these numbers are a bit…arbitrary? If you can add numbers round and round, why not do it round any integer? If anything, this would be <i>more</i> natural, as it keeps all numbers on equal footing. This was called “clock arithmetic”, and was the very first thing taught in middle school.
+7, 12, 24, 52, 365. Wouldn’t you say these numbers are a bit…arbitrary? If you can add round and round, why not do it round any number? If anything, this would be <i>more</i> natural, as it keeps all numbers on equal footing. This was called “clock arithmetic”, and was the very first thing taught in middle school.
 
 For, when time restarts and I go into class, the teacher tells us we will be following a different course of study than the other classes. Ours is called “The Columbia Program”, specially developed at Columbia University, for gifted pupils. She could have said Mars, it would have made no difference. We were handed stapled booklets made of photocopies of typewritten Hebrew text. They looked ancient.
 
