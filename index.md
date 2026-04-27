@@ -43,7 +43,7 @@ The five-year period that ushered in the American "New Math" era reads very much
 
 <ul>
 <li>	The savvy academic, Ed Begle. He’s the director of the School Mathematics Study Group (SMSG). It was launched in 1958 by the American Mathematical Society and funded by the NSF,  to spur new textbooks and curricula for K-12 math education. </li>
-<li>	The diplomat, Howard Franklin Fehr. A prolific scholar in the field of math education and the head of the mathematics department at Teachers College, New York.</li>
+<li>	The diplomat, Howard Franklin Fehr. A prolific math-education scholar and the head of the mathematics department at Teachers College, New York.</li>
 <li> The eccentric Frenchman, Jean Dieudonné.</li>
 </ul>
 
