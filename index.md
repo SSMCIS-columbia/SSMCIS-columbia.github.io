@@ -23,17 +23,17 @@ February 2026
 
 ## <span class="typewriter secnum">1.</span>
 
-The Russians placed Sputnik 1 in orbit on October 4, 1957, making sure <i>everyone</i> could hear it. The rocket sending it up there had the range to reach America, but this was almost an aside. What mattered more was that the Soviets had made space theirs, and the Americans did not. Invisible in the night’s sky, the United States could nonetheless feel it, looking down, mocking.
+The Russians placed Sputnik 1 in orbit on October 4, 1957, making sure <i>everyone</i> could hear it. The rocket sending it up there had the range to reach America, but this was almost an aside. What mattered more was that the Soviets had made space theirs and the Americans did not. Invisible in the night’s sky, the United States could nonetheless feel it, looking down, mocking.
 
 ## <span class="typewriter secnum">2.</span>
 
 I used to go back and stop time, right before math class on the first week of middle school. In the hall, young children are frozen in motion, scrambling to get into rooms. I would lean against a wall and gaze at twelve-year-old me. To her, this new school seems huge. Some of the older kids look like adults, how is that even possible. She wonders if she counts as chubby.
 
-Knowing what’s about to happen, I used to look at her and think about choices and luck. Other times, I would try to glimpse nature from nurture. Until, one day, she slowly turns her head and looks back at me, worried. “Leave me alone,” she says, “it’s class now.” So that day I walked away from her for the last time.
+Knowing what’s about to happen, I used to look at her and think about choices and luck. Other times, I would try to glimpse nature from nurture. Until one day, she slowly turns her head and looks back at me, worried. “Leave me alone,” she says, “it’s class now.” So that day I walked away from her for the last time.
 
 ## <span class="typewriter secnum">3.</span>
 
-Even before Sputnik, the US was concerned its math education was too uneven, too aimless. In 1950 the Americans set up the National Science Foundation (NSF), to invest in science research and education. In 1955, the College Entrance Examination Board appointed a special commission to suggest changes to how math is taught in high school, so students arrive at university better prepared.
+Even before Sputnik, the US was concerned its math education was too uneven, too aimless. In 1950 the Americans set up the National Science Foundation (NSF) to invest in science research and education. In 1955, the College Entrance Examination Board appointed a special commission to suggest changes to how math is taught in high school so students arrive at university better prepared.
 
 The trouble was, math had progressed as rapidly as any of the other sciences, but school kids were still being taught the best and the finest of seventeenth-century wisdom. Math education rarely grabs headlines, but suddenly it was the space age.
 
@@ -42,12 +42,12 @@ The trouble was, math had progressed as rapidly as any of the other sciences, bu
 The five-year period that ushered in the American "New Math" era reads very much like an Agatha Christie mystery. Among the characters are:
 
 <ul>
-<li>	The savvy academic, Ed Begle. He’s the director of the School Mathematics Study Group (SMSG). It was launched in 1958 by the American Mathematical Society and funded by the NSF,  to spur new textbooks and curricula for K-12 math education. </li>
+<li>	The savvy academic, Ed Begle. He’s the director of the School Mathematics Study Group (SMSG). It was launched in 1958 by the American Mathematical Society and funded by the NSF to spur new textbooks and curricula for K-12 math education. </li>
 <li>	The diplomat, Howard Franklin Fehr. A prolific math-education scholar and the head of the mathematics department at Teachers College, New York.</li>
 <li> The eccentric Frenchman, Jean Dieudonné.</li>
 </ul>
 
-It’s 1959, and the Americans are all staring down fabulous wealth, so to speak. The NSF annual budget has just been tripled, to $134 million, with an urgent mission to do something about science education. Within a decade, it’ll grow to $500 million per year.
+It’s 1959, and the Americans are all staring down fabulous wealth, so to speak. The NSF annual budget has just been tripled to $134 million, with an urgent mission to do something about science education. Within a decade, it’ll grow to $500 million per year.
 
 They and others gather in a countryside abbey at Royaumont, France, and a murder is announced. The Frenchman, Dieudonné, rises to give his speech and calls out: “Down with Euclid! Death to Triangles!”
 
@@ -55,7 +55,7 @@ Dieudonné’s fury was over the months and years schools devote to <i>Euclidean
 
 Alas, from at least the early nineteenth century it was known many other geometries exist, some just as physical, where this axiom just isn’t true. It was outrageous, said Dieudonné, to keep teaching kids “geometry” without ever teaching geometry. To add insult to injury, most school math is grounded in procedural calculations; the only time pupils ever learn to prove anything is in geometry…
 
-Howard Fehr had prepared the final Rayoumond report, published in 1961. There, Dieudonné’s remarks appear as “Euclid must go!”, and it remains the conference’s most cited moment. Other common themes in talks were the urgent need to build reasoning and abstraction skills.
+Howard Fehr had prepared the final Rayoumond report, published in 1961. There Dieudonné’s remarks appear as “Euclid must go!”, and it remains the conference’s most cited moment. Other common themes in talks were the urgent need to build reasoning and abstraction skills.
 
 A set of guidelines on how to do it came in the form of a report, “Goals for School Mathematics”, with ideas hashed out by Begle and top-tier mathematicians in a 1963 gathering at Cambridge, Mass. This report laid the foundation for the New Math wave in the US.
 
@@ -82,7 +82,7 @@ It was written and drawn by Eric Carle. In the official telling, it is the third
 
 Supposedly, Carle was working as an illustrator at an advertising agency. One day, a children’s book author sees an ad with a bright red lobster. Besotted, he seeks out Carle to illustrate his new book “Brown Bear, Brown Bear, What Do You see?”. It gets published in ‘67 and becomes a smash hit.
 
-This wonderful Cinderella story is dented only by the fact it’s untrue. In the spirit of the age, Carle got his entry into children’s books in the early sixties, via nursery physics.
+This wonderful Cinderella story is dented only by the fact it’s untrue. In the spirit of the age, Carle got his entry into children’s books in the early sixties via nursery physics.
 
 <figure>
   <img src="/assets/images/carle-physics.png" alt="Eric Carle Physics">
@@ -98,15 +98,15 @@ He then found greener pastures in counting, illustrating for none other than How
 
 ## <span class="typewriter secnum">7.</span>
 
-Our fingers are good for many things, including telling us that 5 plus 5 are 10. But equally, if today is a Thursday, and someone asks us what day it will be in five days’ time, we will tell them it’s a Tuesday. In week-counting, 5 plus 5 comes out as 3.
+Our fingers are good for many things, including telling us that 5 plus 5 are 10. But equally, if today is a Thursday and someone asks us what day it will be in five days’ time, we will tell them it’s a Tuesday. In week-counting, 5 plus 5 comes out as 3.
 
-Say someone wakes you up at 3am, and asks you what time it will be today in 22 hours. Rubbing your eyes, you say it will be 1am tomorrow morning. This enrages your visitor: who asked about tomorrow?! They want to know what time will it be <i>to-day</i>.
+Say someone wakes you up at 3am and asks you what time it will be today in 22 hours. Rubbing your eyes, you say it will be 1am tomorrow morning. This enrages your visitor: who asked about tomorrow?! They want to know what time will it be <i>to-day</i>.
 
 It’s not going to be today, you explain, because a day moves in circles of 24 hours, just like the week moves in circles of 7 days, and our years move in 52 weeks, which are 12 months. We add numbers round and round and think nothing of it.
 
-7, 12, 24, 52, 365. Wouldn’t you say these numbers are a bit…arbitrary? If you can add round and round, why not do it round any number? If anything, this would be <i>more</i> natural, as it keeps all numbers on equal footing. This was called “clock arithmetic”, and was the very first thing taught in middle school.
+7, 12, 24, 52, 365. Wouldn’t you say these numbers are a bit…arbitrary? If you can add round and round, why not do it round any number? If anything, this would be <i>more</i> natural, as it keeps all numbers on equal footing. This was called “clock arithmetic” and was the very first thing taught in middle school.
 
-For, when time restarts and I go into class, the teacher tells us we will be following a different course of study than the other classes. Ours is called “The Columbia Program”, specially developed at Columbia University, for gifted pupils. She could have said Mars, it would have made no difference. We were handed stapled booklets made of photocopies of typewritten Hebrew text. They looked ancient.
+For when time restarts and I go into class, the teacher tells us we will be following a different course of study than the other classes. Ours is called “The Columbia Program”, specially developed at Columbia University for gifted pupils. She could have said Mars, it would have made no difference. We were handed stapled booklets made of photocopies of typewritten Hebrew text. They looked ancient.
 
 But clock arithmetic was harmless. Soon enough, 2 plus 2 is no longer so obviously 4. In a 3-clock, it is 1. In a 4-clock, it is zero. The arithmetic is easy and kind of fun.
 
@@ -123,7 +123,7 @@ It’s ironic how, in its bid for space victory, what America felt it needed was
 
 Bourbaki was the given name for a collective of French mathematicians. One of its founding members was Dieudonné, he who had wished so ill upon Euclid.
 
-See, there really was a lot of new math. Much of it had originated in Germany in the late nineteenth and early twentieth century. Radical discoveries framed a new view of mathematics, as a unified field. There was no longer this kind or that kind of math; it was all one. Bourbaki would talk about their field as <i>Mathematic</i>. Single, not plural.
+See, there really was a lot of new math. Much of it had originated in Germany in the late nineteenth and early twentieth century. Radical discoveries framed a new view of mathematics as a unified field. There was no longer this kind or that kind of math; it was all one. Bourbaki would talk about their field as <i>Mathematic</i>. Single, not plural.
 
 Sadly, France’s math departments told of another new reality. The Germans had exempted their mathematicians from frontline service during the first world war, but not the French. This did away with an entire generation of math scholars, leaving French textbooks behind. Bourbaki planned an ambitious series of new books, with the whole of mathematics written anew in its modern form. The first six volumes, covering most of the chart below, were published by 1955.
 
@@ -191,7 +191,7 @@ But all these are mere preliminaries to the real goal, which was studying transf
   <img src="/assets/images/glide-reflection.png" alt="Glide reflection">
 </figure>
 
-That escalated quickly, didn’t it? Proving felt perilous and doomed, like navigating the open ocean in a leaky boat. I was now thirteen, and felt soot-black shame at how much I was struggling with math. No one likes to feel dumb.
+That escalated quickly, didn’t it? Proving felt perilous and doomed, like navigating the open ocean in a leaky boat. I was now thirteen and felt soot-black shame at how much I was struggling with math. No one likes to feel dumb.
 
 ## <span class="typewriter secnum">12.</span>
 
@@ -199,7 +199,7 @@ By the early seventies, America at large was feeling great. It had won. It had p
 
 Meanwhile, New Math hadn’t spread quite as evenly as is now remembered. But it did reach enough communities where children’s math books confused not just parents, but teachers as well. The zeitgeist was captured in 1973 by “Why Johnny Can’t Add”, a sneering, compact book, which ridiculed arrogant academics telling teachers how to do their job.
 
-This manifesto was written by Morris Kline, himself a mathematician. He thought pushing abstract maths onto children was misguided. He also objected to the Bourbaki mapping of the terrain. In later years Kline turned to publicly mock how undergraduate math gets taught, and from there, to lambast mathematical research itself. For someone who had devoted their life to math, he doesn’t seem to have liked it very much.
+This manifesto was written by Morris Kline, himself a mathematician. He thought pushing abstract maths onto children was misguided. He also objected to the Bourbaki mapping of the terrain. In later years Kline turned to publicly mock how undergraduate math gets taught, and from there to lambast mathematical research itself. For someone who had devoted their life to math, he doesn’t seem to have liked it very much.
 
 In the end, even with all that money, US educators just couldn’t bring New Math to everyone. Nature. Nurture. Luck. Choice. Round and round it goes.
 
@@ -217,7 +217,7 @@ We liked their air of punchy authority, and expressions started filtering into e
 
 Math wasn’t always written so rigidly, and critics like Kline believed teaching this way stifles children’s creativity, with style obscuring how math gets done. But this was a red herring; even the most ardent supporters of this form have always explicitly said that ‘doing math’ was a two-step affair.
 
-People take different routes to solving a problem: one might draw a picture; another tries out examples in search of a pattern; a third might try tweaking a previous logical chain. Whichever, it helps when everyone writes out their proofs in the same, crystal-clear way.
+People take different routes to solving a problem: one might draw a picture; another tries out examples in search of a pattern; a third might try tweaking a previous logical chain. Whichever, it helps when everyone writes out their proofs in the same crystal-clear way.
 
 You could hear when you were doing it wrong. Until, with practice, you begin to experience the pleasure of getting it right. The final result sits on the page like a tiny origami swan, all clean lines and economy of construction. A universal truth that, somehow, belongs only to you.
 
@@ -259,9 +259,9 @@ Together with Fehr, early on they agreed Skidell would translate the books. The 
 
 ## <span class="typewriter secnum">17.</span>
 
-Marcus decided to launch the program with a pilot, for which he would personally select two teachers, from two different schools. He set the pilot in Haifa, the largest metropolitan in Northern Israel. Haifa’s strongest school was the private Hebrew Reali School. It had a renowned math teacher, Benjamin Maier, with whom Marcus had already worked on recording TV math lessons for the public broadcaster. He was a natural choice.
+Marcus decided to launch the program with a pilot, for which he would personally select two teachers from two different schools. He set the pilot in Haifa, the largest metropolitan in Northern Israel. Haifa’s strongest school was the private Hebrew Reali School. It had a renowned math teacher, Benjamin Maier, with whom Marcus had already worked on recording TV math lessons for the public broadcaster. He was a natural choice.
 
-The second teacher was a young woman named Nitsa Movshovitz-Hadar, who herself had been a student of Maier’s only a few years prior. She then studied math and physics at the Hebrew University in Jerusalem, where she also got a teacher’s diploma, and went on to teach. She was now teaching at a public school, and nervous about having the national superintendent himself watch her class. She got picked.
+The second teacher was a young woman named Nitsa Movshovitz-Hadar, who herself had been a student of Maier’s only a few years prior. She then studied math and physics at the Hebrew University in Jerusalem, where she also got a teacher’s diploma, and went on to teach. She was now teaching at a public school and nervous about having the national superintendent himself watch her class. She got picked.
 
 In the summer of 1971 the two spent six weeks in New York, attending Fehr’s teacher-training course. Upon their return, each set out to train their colleagues. This wasn’t a problem because, at the time, a bachelor’s degree in mathematics was a prerequisite for teaching math in schools. The teachers easily understood the material. But could they teach it to an entire student body?
 
@@ -271,11 +271,11 @@ The problems, she adds, were never about student competence. Rather, the program
 
 But for Movshovitz-Hadar it was a life-changing experience. New York had made such an impression, she was resolved to spend more time in the States. Within a year she was accepted to a PhD in Berkely, California. With her husband and two young children, she set off on an adventure. Four years later she returned to Israel and became a math-education professor, eventually also serving as the director of the Israel National Museum of Science.
 
-By the mid-70s, Columbia had been moved to a different school, and was being taught only to the city’s gifted class. But the Ministry of Education continued translating the middle-school textbooks, presumably for wider use. Skidell’s translated versions of the second- and third- year books were published in 1974 and 1975 respectively.
+By the mid-70s, Columbia had been moved to a different school and was being taught only to the city’s gifted class. But the Ministry of Education continued translating the middle-school textbooks, presumably for wider use. Skidell’s translated versions of the second- and third- year books were published in 1974 and 1975 respectively.
 
 ## <span class="typewriter secnum">18.</span>
 
-It was the mid '90s and we were about to start high school. Suddenly there was a choice: after three years of compulsory study, pupils could opt out of Columbia, and do whatever everyone else did.
+It was the mid '90s, and we were about to start high school. Suddenly there was a choice: after three years of compulsory study, pupils could opt out of Columbia and do whatever everyone else did.
 
 Columbia offered no extra credit. The final marks would be the scores on internal finals instead of the national exams. (As was the case with the original SSMCIS.) Why take the extra hardship for mostly downside risk? Half the class quit in a heartbeat.
 
@@ -283,7 +283,7 @@ For the other half, by then we kind of got the hang of Columbia. Leaving would m
 
 ## <span class="typewriter secnum">19.</span>
 
-Looking back, you didn’t need Columbia to do well at university, though it sure didn’t hurt. The payoff was in how old things connected, and how new things weren’t too hard.
+Looking back, you didn’t need Columbia to do well at university, though it sure didn’t hurt. The payoff was in how old things connected and how new things weren’t too hard.
 
 For example, it covered much of first-year undergrad calculus at a comfortable pace. All of science lives atop this stuff, but at undergrad pace the material can come as a shock: notions of infinity coexisting with proximity; Greek letters playing very specific roles; tricky proofs. Columbia stretched it out.
 
@@ -293,7 +293,7 @@ Also, and this I only understood later in life, the means are the end. For three
 
 When Marcus chose Haifa as his New Math epicentre, he likely didn’t care that the city happens to be a university town. After all, his was the business of teaching math to kids; what they do once they get to university – typically in their early twenties, after several years of national service – was somebody else’s problem. One afternoon, I became somebody else’s problem.
 
-At the start of my junior year of high school I decided to take academic math courses at the Technion (the Israeli Institute of Technology), and now had to face the single qualifying hurdle: meeting an actual mathematician. I was wary of what he might ask – math riddles? difficult computations? – but was assured it would just be a friendly chat. Mostly, he wanted to know I was choosing this out of my own volition. With this cleared, he said they recommend starting with “Set Theory”.
+At the start of my junior year of high school I decided to take academic math courses at the Technion (the Israeli Institute of Technology) and now had to face the single qualifying hurdle: meeting an actual mathematician. I was wary of what he might ask – math riddles? difficult computations? – but was assured it would just be a friendly chat. Mostly, he wanted to know I was choosing this out of my own volition. With this cleared, he said they recommend starting with “Set Theory”.
 
 I was high on success. No more having just any old homework; I was good enough to have <i>grownup</i> homework. The cost for the whole term, with academic credits, came to about thirty hours of teenage minimum wage. (My parents paid.)
 
